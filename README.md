@@ -104,7 +104,7 @@
       
       ```getCount()```
     
-7. To copy these links to your clipboard enter this command (IMPORTANT: after pressing enter, click with your mouse back somewhere on the website to focus on it within 3 seconds of pressing enter)
+7. Once you are happy with the amount of loaded links, copy these links to your clipboard using this command (IMPORTANT: after pressing enter in console, click with your mouse back somewhere on the website on empty place to focus on it within 3 seconds of pressing enter)
     
       ```getLinks()```
       
